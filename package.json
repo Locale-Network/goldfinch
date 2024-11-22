@@ -41,6 +41,7 @@
     "@types/react": "17.0.39",
     "@types/react-dom": "17.0.6",
     "@float-capital/float-subgraph-uncrashable": "0.0.0-alpha.6",
+    "concat-stream": "2.0.0",
     "hardhat-deploy@^0.11.14": "patch:hardhat-deploy@npm%3A0.11.22#./.yarn/patches/hardhat-deploy-npm-0.11.22-0e28661e12.patch"
   },
   "packageManager": "yarn@3.3.0"
